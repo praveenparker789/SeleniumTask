@@ -1,0 +1,4 @@
+Windows Handling
+
+1. getWindow Handle - Parent Window ID
+2. getWindow Handles - All child window ID
