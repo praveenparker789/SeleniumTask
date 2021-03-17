@@ -4,3 +4,5 @@ Windows Handling
 2. getWindowHandles - All child window ID.
 
 This getWindowHandle and getWindowHandles method is present in WebDriver Interface.
+
+getLocation is webElement Interface
