@@ -1,4 +1,6 @@
 Windows Handling
 
-1. getWindow Handle - Parent Window ID
-2. getWindow Handles - All child window ID
+1. getWindowHandle - Parent Window ID.
+2. getWindowHandles - All child window ID.
+
+This getWindowHandle and getWindowHandles method is present in WebDriver Interface.
