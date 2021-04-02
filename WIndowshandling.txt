@@ -6,3 +6,5 @@ Windows Handling
 This getWindowHandle and getWindowHandles method is present in WebDriver Interface.
 
 getLocation is webElement Interface
+
+Added New Fnctionality
